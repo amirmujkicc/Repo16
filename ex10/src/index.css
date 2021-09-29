@@ -74,3 +74,6 @@ code{
 .row2{
     word-spacing: 9px;
 }
+strong{
+    font-weight: inherit;
+}
